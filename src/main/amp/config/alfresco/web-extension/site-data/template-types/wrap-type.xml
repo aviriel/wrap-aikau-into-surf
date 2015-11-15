@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template-type>
+    <title>Wrapped Page</title>
+    <description>This template-type references an alternate "full-page" web script to render a complete page of Dojo based widgets</description>
+    <processor mode="view">
+        <id>webscript</id>
+        <uri>/wrap</uri>
+    </processor>
+</template-type>
